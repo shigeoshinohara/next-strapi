@@ -144,3 +144,5 @@ Desktop.ini
 # Nextjs
 ######################
 /.next/
+
+.env.local
